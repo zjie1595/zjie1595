@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **zjie1595/zjie1595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
