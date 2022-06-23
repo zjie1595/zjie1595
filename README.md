@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjie1595)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjie1595&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=zjie1595&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zjie1595)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zjie1595)](https://git.io/streak-stats)
